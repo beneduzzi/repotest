@@ -4,7 +4,7 @@ import java.util.Iterator;
 public class CadClientes{
 	
 	public static void main(String[] args) throws Exception{
-		//declarando o ArrayList
+		//declarando o ArrayList...
 		ArrayList<Cliente> lista = new ArrayList<Cliente>();
 
 		Cliente c1 = new Cliente();
